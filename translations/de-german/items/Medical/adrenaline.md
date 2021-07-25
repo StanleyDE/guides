@@ -1,21 +1,21 @@
 # Adrenaline
 
-**Name:** Adrenaline
-**Description:** A nifty little health boost and last minute escape option.
+**Name:** Adrenalin
+**Beschreibung:** Ein praktischer Gesundheitsschub und eine Fluchtmöglichkeit in letzter Minute.
 
 ### Info:
 
-**Spawn Location:**
-**Healing:** 48hp + 30ahp
-**Nickname/s:** Drugs, needle
+**Spawn Standort:**
+**Heilung:** 48hp + 30ahp
+**Nickname:** Medikament, Nadel
 
 ### Gameplay:
 
-**Detailed Description:**
+**Detaillierte Beschreibung:**
 
-The adrenalinject is a middle ground between the medkit and the pills in terms of healing. While it isn’t as effective with recovering health, the ahp and stamina boost make it a must have either as a quick last resort, or to cover more ground without needing to stop for rests.
+Das Adrenalin ist ein Mittelweg zwischen dem Medikit und den Pillen in Bezug auf die Heilung. Es ist zwar nicht so effektiv bei der Wiederherstellung der Gesundheit, aber der AHP- und Ausdauer-Boost machen es zu einem Muss, entweder als schnellen letzten Ausweg, oder um mehr Strecke zurückzulegen, ohne für Pausen anhalten zu müssen.
 
-With the adrenaline equipped, left click to inject yourself. It gives an immediate 30ahp, which lasts 40 seconds (if you remain unharmed) and absorbs 70% of all damage taken until it is fully depleted. The normal health regeneration lasts 20 seconds, and heals a total of 48hp. Adrenaline has the added bonus of granting infinite stamina during the regeneration period, and removes the concussed status effect.
+Wenn das Adrenalin ausgerüstet ist, klicke mit der linken Maustaste, um es sich zu injizieren. Das Adrenalin gibt sofort 30 AHP, die 40 Sekunden lang anhalten (wenn man unverletzt bleibt) und 70% des erlittenen Schadens absorbieren, bis es vollständig aufgebraucht ist. Die normale Gesundheitsregeneration dauert 20 Sekunden und heilt insgesamt 48hp. Adrenalin hat den zusätzlichen Bonus, dass es während der Regenerationszeit unendlich viel Ausdauer gewährt und den Statuseffekt "Gehirnerschütterung" entfernt.
 
 **Approachable PlayStyles:**
 
