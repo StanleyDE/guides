@@ -1,0 +1,6 @@
+[Mexico] LePanas
+LePanas is a fun loving casual server where the community feels more like a family than anything else. There are plenty of great moments to be had and they are growing quite nicely. They offer channels for movies, shows, anime and in-depth discussions/theories diving into the lore of the SCP universe. They also host games such as Minecraft, League of Legends and more. If you speak Spanish or live nearby, I’d strongly recommend checking out this amazing community!
+
+LePanas es un servidor de discordia informal y divertida donde la comunidad se siente más como una familia que otra cosa. Hay un montón de grandes momentos que se pueden tener y están creciendo muy bien.  Ofrecen canales de películas, programas, anime y discusiones/teorías en profundidad sobre el universo SCP. También albergan juegos como Minecraft, League of Legends y otros. Si hablas español o vives cerca, te recomiendo encarecidamente que visites esta increíble comunidad!
+
+Discord: https://discord.gg/2evSQkP6zs
