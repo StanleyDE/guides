@@ -1,21 +1,21 @@
 # Painkillers
 
-**Name:** Painkillers
-**Description:** The most basic of medical items, able to heal small amounts of damage over a long period of time.
+**Name:** Schmzermittel
+**Beschreibung:** Der simpelste medizinische Gegenstand, der in der Lage ist, Schaden über einen längeren Zeitraum in geringem Maße zu heilen.
 
 ### Info:
 
-**Spawn Location:** Chaos Insurgents and lockers
-**Healing:** 45hp
-**Nickname/s:** Pills, drugs
+**Spawn Standort:** Chaos Insurgents and lockers
+**Heilung:** 45hp
+**Nickname:** Pillen, Medikamente
 
 ### Gameplay:
 
-**Detailed Description:**
+**detaillierte Beschreibung:**
 
-Painkillers are one of the weakest medical items in the game, but also quite powerful when used effectively. They’re a must have as almost any class, and are great at patching up small amounts of damage quickly.
+Schmerzmittel sind einer der schwächsten medizinischen Gegenstände im Spiel, aber auch ziemlich wirksam, wenn sie effektiv eingesetzt werden. Sie sind ein Muss für fast jede Klasse und eignen sich hervorragend, um kleine Mengen an Schaden schnell zu heilen.
 
-Left click with painkillers equipped to use them. After 2.5 seconds you’ll regain 5hp, and then get 20 seconds of regeneration (heals at 2hp/s). Painkillers also remove the concussed and burned status effects, which serves to nullify the effects of explosions.
+Klicke auf die linke Maustaste, um die Schmerzmittel zu verwenden. Nach 2,5 Sekunden erhältst du 5 HP zurück und dann 20 Sekunden Regeneration (Heilung mit 2 HP/s). Schmerzmittel entfernen auch die Statuseffekte "Gehirnerschütterung" und "Verbrennung", wodurch die Auswirkungen von Explosionen beseitigt werden.
 
 **Approachable PlayStyles:**
 
