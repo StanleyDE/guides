@@ -1,21 +1,21 @@
-# First Aid Kit
+# Erste-Hilfe-Set
 
-**Name:** First Aid Kit
-**Description:** The first aid kit is the most common healing item in the game. It heals 65 HP but takes <> to use.
+**Name:** Erste-Hilfe-Set
+**Beschreibung:** Das Erste-Hilfe-Set ist der häufigste Heilungsgegenstand im Spiel. Es heilt 65 HP, aber es braucht <> um es zu verwenden.
 
 ### Info:
 
-**Spawn Location:** Chaos Insurgency, MTF, scientists, lockers
-**Healing:** 65hp
-**Nickname/s:** Medkit
+**Spawn Standort:** Chaos Insurgency, MTF, Wissenschaftler, Schränke
+**Heilung:** 65hp
+**Nickname/s:** Medkit, Verbandskasten
 
 ### Gameplay:
 
-**Detailed Description:**
+**Detaillierte Beschreibung:**
 
-A useful item all game long, with advantages making it more practical than adrenaline, and being a direct upgrade from painkillers, this may be an item to hang on to.
+Ein nützlicher Gegenstand für das ganze Spiel, mit Vorteilen, die ihn praktischer machen als Adrenalin, und da er ein direktes Upgrade von Schmerzmitteln ist, könnte dies ein Gegenstand sein, an dem man hängen bleibt.
 
-Left click with the medkit equipped to start using it, there is a 4 second delay before the medkit activates. The medkit can be canceled by pressing right click, until 3 seconds into activation. During the 4 second delay, the medkit will produce sound, which may not be ideal when trying to hide from enemies.
+Klicke mit der linken Maustaste auf das Erste-Hilfe-Set, um es zu verwenden. Es gibt eine Verzögerung von 4 Sekunden, bevor das Erste-Hilfe-Set aktiviert wird. Das Erste-Hilfe-Set kann durch Drücken der rechten Maustaste abgebrochen werden, bis 3 Sekunden nach der Aktivierung. Während der 4-Sekunden-Verzögerung erzeugt das Erste-Hilfe-Set Geräusche, was nicht vorteilhaft ist, wenn man versucht, sich vor Feinden zu verstecken.
 
 **Approachable PlayStyles:**
 
