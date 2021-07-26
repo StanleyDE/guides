@@ -1,56 +1,70 @@
 # Class-D Personnel
 
 **Name:** Class-D Personnel
-**Description:** - *"Inmates kept within the bowels of the Foundation sites as lab rats; test subjects at the mercy of the Foundation’s cruel practices. Escape from your confines and rebel against your imprisoners — by any means necessary."*
-
-Unfortunately for you, class Ds are almost everyone’s enemies. Keep that in mind… When near scientists, tread carefully, because if one of them has a weapon, they won’t hesitate to end you.
+**Description:** - "Inmates kept within the bowels of the Foundation sites as lab rats; test subjects at the mercy of the Foundation’s cruel practices. Escape from your confines and rebel against your imprisoners — by any means necessary."
 
 ### Info:
 
-**Spawn Location:** CD01
+**Spawn Location:** CD-01
 **Health:** 100
-**Base Speed:** 5.4 m/s
-**Sprint Speed:** 7.35 m/s 
+**Base Speed:** 4.05 m/s
+**Sprint Speed:** 5.51 m/s 
 **Nickname/s:** D-Class, Class-D, D-Boy, Prisoner, Escapee
 
 ### Gameplay:
 
 **Detailed Gameplay Description:**
-Your main objective is to escape the facility by any means necessary. The moment you spawn you’re already fighting for survival, starting in the cell block alongside 40% of the players within the server. Firstly, you need to gain access to a keycard, but where do you find them? And what can you use to better help your escape?
+Your main objective is to escape the facility by any means necessary. The moment you spawn you’re already fighting for survival since almost every other class is your enemy, starting in the cell block alongside 40% of the players within the server.
+Firstly, you need to gain access to a keycard, but where do you find them? And what can you use to better help your escape?
+Refer to the information below to get started.
 
-| Light Containment Zone
-When you first step out of your cell, you can either go with the main group which gives you protection but less item security, or split off your own way to find a keycard, which can be rewarding but also more dangerous. The easiest ways to get a keycard is to hang around 012 and wait for a scientist to open the door, or open random lockers as they can contain medical items, keycards and more. Whether you have something or nothing, you should then head to SCP-914 to pick up and upgrade your items. Be careful though.. The SCP’s first target is usually 914 so staying around for too long will most likely end with your untimely demise. I’d usually recommend getting a Facility Manager card as it allows you the freedoms that a lot of other cards can’t give you, along with the upgrade path being super simple so you can cut down on time. Make sure to tap sprint as much as you can to conserve stamina.
+*Light Containment Zone*
+Upon exiting your cell, you can either follow other Class-D, which can give you protection but results in you not being able to get your own items, or alternatively go your own separate way to find your own items, which can sometimes be rewarding but also more dangerous.
+The most common ways of obtaining a keycard is by making your way around Light Containment Zone in search of the key rooms that have loot. These are rooms labelled as:
+- GR-18
+- PC-15
+- PT-00
+- VT-00
+- WC-00
+All five of these rooms have a chance for either keycards and/or lockers (which contain keycards, medical and other general items) to spawn which can prove beneficial for Class-D. Another room that contains a keycard is #0-12, which is restricted to being accessed without a Scientist Keycard or higher (excluding the Zone Manager Keycard). Do note that you won't be able to open the door if you get trapped inside, even while being able to access to keycard at the bottom of the chamber since it is a Zone Manager Keycard.
+Upon obtaining a keycard, you should make your way to the room #9-14 (also known as SCP-914). Using the keycard that you have obtained, you will be able to enter 914 and upgrade any items that you have with the respective settings, with it being preferable at upgrading on the Fine setting. Setting it to the wrong options could destroy or delay the upgrades of items that you have when entering the machine.
+It is usually recommended to get a Facility Manager or 05 Keycard as it gives you the freedom that a lot of other cards cannot give you. After you have finished your upgrades, get ready to leave and make your way to an Elevator System (Ex-A or Ex-B), which will lead you up into Heavy Containment Zone.
 
-| Heavy Containment Zone
-Once in Heavy, you should try to mostly avoid tesla gates. If you don’t time walking through them properly, they will immediately kill you and the sound is loud enough to alert all nearby players. Try to stick to open hallways and search for special rooms. You’ll notice that there are a lot less hiding spaces in heavy, so door frames are your friends. Arguably the most important room here is SCP-096’s containment chamber, as it contains a sergeants’s card inside (scientists card+ is needed to open the door). Remember to arm the nuke along the way.
+*Heavy Containment Zone*
+Once in Heavy Containment you should be cautious at all times due to the distinct nature of the zone. Unlike Light Containment Zone, there are no markings on or above any doors to guide you throughout the map, leaving you alone to explore and hope you find the way out.
+Along with this, there is also the underlying issue of other SCPs and MTF scowering around which can be a big obstacle since it's not that easy to get around them.
+In the event that you do not have items in this zone, there are a few locations where you can obtain items to progress to your escape.
+Your first objective here would be to get to the Server Room where a Scientist Keycard is located on one of the two floors. Your next objective would to then get to SCP-096's Containment Chamber as it contains a Sergeant's Keycard inside, which has Gate access and can allow you to escape. Once you have this keycard, you will be able to access all items in the armouries located in SCP-049's Containment Chamber and in the Heavy Containment Zone's Nuke Silo, as well as SCP Items located in pedestals around Heavy Containment Zone.
+Once you are prepared with enough gear, you should be able to get through Entrance Zone without needing to face as many obstacles.
 
-| Entrance Zone
-You should be getting more cautious now. Since a lot of time has most likely passed, either NTF or Chaos are getting ready to spawn if they haven’t already, and as a d-boi near the exit, many of them are most likely spectating you. Run. Run for the bomb shelter and hope for the best. If you hear NTF spawning, run and hide back in the Heavy Containment Zone and wait to be saved.
-
-| Goal checklist
-- Obtain a keycard and/or weapon.
-- Locate SCP-914.
-- Upgrade your keycard.
-- Get to an elevator system to get into the HCZ.
-- Find the entrance zone checkpoint and make your way to a gate.
-- Take the elevator to the surface and escape into the bunker.
+*Entrance Zone*
+Now that you are in Entrance Zone, the only objectives here are to find either Gate A or Gate B to lead you into Surface Zone. Although you are near the end of your journey, since a lot of time has most likely passed, either NTF or Chaos are getting ready to spawn if they have not already, and as a Class-D near the exit, many of them are most likely spectating you.
+Due to this, it is important you quickly find either one of these rooms before a respawn, preferably Gate B since it is closer to the escape zone, because you may get unlucky and have NTF spawn over Chaos, delaying your escape and possibly resulting in your eventual termination.
 
 **Enemies/Allies:**
 
-Your only ally is the Chaos Insurgency. NTF, Scientists, Guards and SCPs are your enemies and they will not let you survive.
-
-The Chaos Insurgency spawn later on in the round in waves. They start off with 14 tickets, meaning 14 players spawn in the first wave unless altered. Their goals are to rescue class-d, kill ntf and wipe out the scientists and get a victory for the class-d.
-
+Your only ally is the Chaos Insurgency. Nine-Tailed Fox, Scientists, Facility Guards and SCPs are your enemies and they will not let you survive.
+Chaos Insurgency respawn later on in the round in waves. They start off with 14 tickets, meaning 14 players can spawn in the first wave unless altered. Their goals are to rescue Class-D, kill Nine-Tailed Fox and wipe out the Scientists to get a victory for the Class-D.
 Scientists are considered neutral, however they will not hesitate to turn on you if they gain access to weapons or no longer find you useful.
+Finally, Mobile Task Force units are purely enemies. They have next to no reason to keep you alive besides bait for SCPs and as a sacrifice for SCP-106.
 
-Finally, the MTF units are purely enemies. They have next to no reason to keep you alive besides bait for SCPs and as a sacrifice.
+**Class Interactions:**
 
-**Class Interaactions:**
+Below are some interactions that you would most commonly see when encountering other classes as a Class-D:
 
-|
-|
-|
-|
+*Scientists*
+Interactions with Scientists begin in Light Containment Zone as they start here at the beginning of the round. Scientists will try to reach the same objective as you, which is to try and escape. During this process, they may try to:
+- Kill you
+- Steal items that you can use;
+- And delay your escape through other means
+Although they sometimes pose a threat, it is generally fine to trust them until you reach zones like Heavy Containment Zone, since they can rat you out to Facility Guards, or get you killed by SCPs.
+
+*Nine-Tailed Fox*
+Interactions with Nine-Tailed Fox usually occur later in the round after they have respawned, but it is not a guaranteed event that occurs as Chaos Insurgency can spawn instead.
+In the event that a respawn does occur, they will not hesitate to shoot you or force you to sacrifice yourself to recontain SCP-106.
+
+*Facility Guards*
+Interactions with Facility Guards are mostly dependent on the type of player behind the class. Some players take a passive approach by disarming Class-D where they can, or alternatively just shoot every one of them that they can.
 
 **Approachable PlayStyles:**
 
