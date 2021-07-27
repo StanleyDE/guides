@@ -1,6 +1,6 @@
 # Painkillers
 
-**Name:** Schmzermittel
+**Name:** Schmerzmittel
 **Beschreibung:** Der simpelste medizinische Gegenstand, der in der Lage ist, Schaden über einen längeren Zeitraum in geringem Maße zu heilen.
 
 ### Info:
