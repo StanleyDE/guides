@@ -1,21 +1,21 @@
-# First Aid Kit
+# Erste Hilfe Paket
 
-**Name:** First Aid Kit
-**Description:** The first aid kit is the most common healing item in the game. It heals 65 HP but takes <> to use.
+**Name:** Erste Hilfe Paket
+**Beschreibung:** Das Erste-Hilfe-Paket ist der häufigste Heilgegenstand im Spiel. Er heilt 65 HP, braucht aber <> um ihn zu benutzen.
 
 ### Info:
 
-**Spawn Location:** Chaos Insurgency, MTF, scientists, lockers
+**Spawn Standort:** Chaos Insurgency, MTF, Wissenschaftler, Schränke
 **Healing:** 65hp
-**Nickname/s:** Medkit
+**Nickname/s:** Medkit, First Aid
 
 ### Gameplay:
 
-**Detailed Description:**
+**Detaillierte Beschreibung:**
 
-A useful item all game long, with advantages making it more practical than adrenaline, and being a direct upgrade from painkillers, this may be an item to hang on to.
+Ein nützlicher Gegenstand für das ganze Spiel, mit Vorteilen, die ihn praktischer machen als Adrenalin, und besser als Schmerzmittel, dies könnte ein Gegenstand sein, den man behalten sollte.
 
-Left click with the medkit equipped to start using it, there is a 4 second delay before the medkit activates. The medkit can be canceled by pressing right click, until 3 seconds into activation. During the 4 second delay, the medkit will produce sound, which may not be ideal when trying to hide from enemies.
+Klicke mit der linken Maustaste auf das Erste Hilfe Paket, um es zu benutzen. Es gibt eine Verzögerung von 4 Sekunden, bevor das Erste Hilfe Paket aktiviert wird. Das Erste Hilfe Paket kann durch Drücken der rechten Maustaste bis 3 Sekunden nach der Aktivierung abgebrochen werden. Ab 4 Sekunden gibt das Erste Hilfe Paket Geräusche von sich, was nicht unbedingt ideal ist, wenn man sich vor Gegnern verstecken möchte.
 
 **Approachable PlayStyles:**
 
